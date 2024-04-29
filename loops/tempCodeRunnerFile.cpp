@@ -1,0 +1,1 @@
+aking input of n: ";
